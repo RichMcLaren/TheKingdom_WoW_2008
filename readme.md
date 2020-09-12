@@ -1,4 +1,6 @@
 # The Kingdom
+See https://richmclaren.github.io/TheKingdom_WoW_2008/
+
 It's a website from my childhood I've created in May of 2008. I was in 8th grade :)
 Based on original files dates it looks like all the pages were created at 23th of May 2008. 
 
